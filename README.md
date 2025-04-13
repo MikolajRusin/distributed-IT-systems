@@ -1,5 +1,7 @@
 # Laboratory Tasks 💻
 
+---
+
 ## Laboratory 1 – UDP Mini-Chat Application 💬
 
 ### 1.1 Goal of the Task 🎯  
