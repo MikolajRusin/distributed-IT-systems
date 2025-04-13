@@ -41,3 +41,5 @@ The client module is responsible for:
   Expected response: `! | receiver | sender | OK |`
 
 > 🧠 **Note**: To enable simultaneous sending and receiving, the client spawns a separate thread immediately after registration to continuously listen for incoming messages.
+
+---
