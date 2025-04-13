@@ -8,7 +8,9 @@
 The objective of this laboratory was to design and implement a simple distributed application in Python using the **UDP protocol**. The application simulates a minimalistic chat system consisting of two main modules:
 - **Server**
 - **Client**
+  
 --
+
 ### 1.2 Message Format 🧾  
 Each message is a string divided into fields separated by the `|` character. The format consists of:
 1. **Operation Code**: One of the following characters: `+`, `-`, `?`, or `!`.
